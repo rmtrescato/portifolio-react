@@ -1,0 +1,22 @@
+.box{
+ margin-top: 50px; 
+}
+
+.box img{
+ width: 25%;
+ border-radius: 10px;
+
+ margin: 1%;
+ cursor: pointer;
+ transition: transform .5s ease;
+}
+
+.box img:hover{
+ transition-duration: 0.5s ease-out;
+ transform: scale(1.1);
+}
+
+.img1{
+ margin-left: 15px;
+ margin-top: 30px;
+}

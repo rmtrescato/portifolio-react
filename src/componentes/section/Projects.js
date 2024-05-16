@@ -4,6 +4,8 @@ import lpdnc from '../../image/projects/lpdnc.svg'
 import portifolio from '../../image/projects/portifolio.png'
 import tempo from '../../image/projects/tempo.png'
 import Card from '../elementos/Card'
+import Book from './Book'
+
 
 
 function Projects(){
@@ -35,8 +37,10 @@ function Projects(){
         site='https://portifolio-liard-xi.vercel.app/' 
       />
       <ButtonB id='btn' text='Acesse minhas Certificações' link='https://www.linkedin.com/in/rmtrescato/details/certifications/' />
-     
+      <Book/>
+  
   </div>
+  
  )
 }
 
