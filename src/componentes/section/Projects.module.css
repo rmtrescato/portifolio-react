@@ -1,0 +1,21 @@
+.projects{
+ text-align: left;
+ margin-left: 75px;
+}
+
+.projecs h1{
+ font-size: 45px;
+}
+
+.clientes{
+ width: 50px;
+ border-radius: 10px;
+
+ justify-content: center;
+ margin: 15px;
+}
+
+#btn1{
+ align-items: center;
+ color: black;
+}
