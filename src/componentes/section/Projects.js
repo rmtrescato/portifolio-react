@@ -32,7 +32,7 @@ function Projects(){
         tech='HTML, CSS e JS'
         description='Criação uma Landing Page para o lançamento de formação em tecnologia'
         repo='https://github.com/rmtrescato/landing_dnc'
-        site='https://projeto1-landingdnc.netlify.app' 
+        site='https://portifolio-liard-xi.vercel.app/' 
       />
       <ButtonB id='btn' text='Acesse minhas Certificações' link='https://www.linkedin.com/in/rmtrescato/details/certifications/' />
      
