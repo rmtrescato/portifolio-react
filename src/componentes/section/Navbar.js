@@ -9,6 +9,7 @@ function Navbar(){
       <li><Nav.Link href='#apresenta'>Apresentação</Nav.Link></li>
       <li><Nav.Link href='#skills'>Habilidades</Nav.Link></li>
       <li><Nav.Link href='#projects'>Projetos</Nav.Link></li>
+      <li><Nav.Link href='#client-box'>Clientes</Nav.Link></li>
    </ul>
    <ul>
       <li><a href='https://github.com/rmtrescato' target='_blank' rel='noreferrer' title='GitHub de Trescato'><FaGithub size={30}/></a></li>

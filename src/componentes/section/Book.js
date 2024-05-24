@@ -9,7 +9,7 @@ import deltatic from '../../image/cliente/deltatic.png'
 
 function Book(){
  return(
-  <div className={styles.box}>
+  <div className={styles.box} id='client-box'>
     <h1> Clientes </h1>
     <p> Sites criados e desenvolvidos para clientes especificos conforme sua demanda. </p>
       <div className={styles.img1}>
