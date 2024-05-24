@@ -16,7 +16,7 @@ function Projects(){
         img={lpdnc}
         title='LP - Escola DNC'
         tech='HTML, CSS e JS'
-        description='Desenvolvendo uma Landing Page para o lançamento de formação em tecnologia'
+        description='Desenvolvendo uma Landing Page para o lançamento de formação em tecnologia. </br> Clique na imagem para acessar a versão publicada.'
         repo='https://github.com/rmtrescato/landing_dnc'
         site='https://projeto1-landingdnc.netlify.app'
       />
@@ -38,9 +38,8 @@ function Projects(){
       />
       <ButtonB id='btn' text='Acesse minhas Certificações' link='https://www.linkedin.com/in/rmtrescato/details/certifications/' />
       <Book/>
-  
   </div>
-  
+
  )
 }
 
