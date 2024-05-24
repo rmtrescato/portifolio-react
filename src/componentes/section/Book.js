@@ -11,6 +11,7 @@ function Book(){
  return(
   <div className={styles.box}>
     <h1> Clientes </h1>
+    <p> Sites criados e desenvolvidos para clientes especificos conforme sua demanda. </p>
       <div className={styles.img1}>
       <img src={leek} alt='error'/>
       <img src={magno} alt='error'/> 

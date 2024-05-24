@@ -16,7 +16,8 @@ function Projects(){
         img={lpdnc}
         title='LP - Escola DNC'
         tech='HTML, CSS e JS'
-        description='Desenvolvendo uma Landing Page para o lançamento de formação em tecnologia. </br> Clique na imagem para acessar a versão publicada.'
+        description='Desenvolvendo uma Landing Page para o lançamento de formação em tecnologia. 
+          Clique na imagem para acessar a versão publicada.'
         repo='https://github.com/rmtrescato/landing_dnc'
         site='https://projeto1-landingdnc.netlify.app'
       />
@@ -24,7 +25,8 @@ function Projects(){
         img={tempo}
         title='Consumo de API (Tempo e CEP)'
         tech='HTML, CSS, JS e API Rest full'
-        description='Desenvolvimento de uma pagina com consumo de API`s do clima e de busca de CEP.'
+        description='Desenvolvimento de uma pagina com consumo de API`s do clima e de busca de CEP. 
+        Clique na imagem para acessar a versão publicada.'
         repo='https://github.com/rmtrescato/desafio-consumodeapi'
         site='https://consumodeapi-dncweather.netlify.app'
       />
@@ -32,11 +34,12 @@ function Projects(){
         img={portifolio}
         title='Portifolio Pessoal - RMTrescato'
         tech='HTML, CSS e JS'
-        description='Criação uma Landing Page para o lançamento de formação em tecnologia'
+        description='Criação uma Landing Page para o lançamento de formação em tecnologia.  
+        Clique na imagem para acessar a versão publicada.'
         repo='https://github.com/rmtrescato/landing_dnc'
         site='https://portifolio-liard-xi.vercel.app/' 
       />
-      <ButtonB id='btn' text='Acesse minhas Certificações' link='https://www.linkedin.com/in/rmtrescato/details/certifications/' />
+      <ButtonB id='btn' text='Clique e acesse minhas Certificações' link='https://www.linkedin.com/in/rmtrescato/details/certifications/' />
       <Book/>
   </div>
 

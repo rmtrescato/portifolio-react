@@ -12,7 +12,7 @@ function Card({img,title,tech,description,repo,site}){
         <h3> {title} </h3>
         <p><strong>Tecnologia</strong> {tech} </p>
         <p> {description} </p>
-        <ButtonB text='Acesse o Repositorio' link={repo}/>
+        <ButtonB text='Acesse o Repositório' link={repo}/>
      </section>
      
    </div>

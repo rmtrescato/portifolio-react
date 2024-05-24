@@ -13,9 +13,9 @@ function Skills(){
       <p> Conheça um pouco das minhas principais habilidades e conhecimentos. </p>
       <div>
          <img src={agile} alt='Error' title='Agile Master'/>
-         <img src={javascript} alt='Error' title='JavaScript'/>
          <img src={html} alt='Error' title='HTML5'/>
          <img src={css} alt='Error' title='CSS3'/>
+         <img src={javascript} alt='Error' title='JavaScript'/>
          <img src={react} alt='Error' title='React'/>
          <img src={typescript} alt='Error' title='TypeScript'/>
         
