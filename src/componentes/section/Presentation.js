@@ -11,9 +11,10 @@ function Presentation(){
      <p>
       Sou um apaixonado por tecnologia e soluções inovadoras. Como <br/>
       <strong>Scrum Agile Master</strong>, eu tenho o compromisso de resolver problemas<br/>
-      complexos e trazer resultados excepcionais para os negócios.<br/>
-      Meus projetos já geraram milhões de reais em receita anual<br/>
-      estou sempre em busca de novos desafios para superar.
+      complexos e trazer resultados rapidos e coninuos para os negócios.<br/>
+      Condizuir o planejamento estratégico determinado atuando diretamente na <br/>
+      compreensao de monitoramento de Roadmaps, levantamento de prioridades de <br/>
+      backlog e Product Discovery. Estou sempre em busca de novos desafios para superar.<br/>
       </p>
 
       <ButtonA link='https://linkedin.com/in/rmtrescato' text='Conecte-se comigo' />
