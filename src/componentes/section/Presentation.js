@@ -9,11 +9,10 @@ function Presentation(){
      <h4><strong>Bem-vindo ao meu portifolio</strong></h4>
      <h1>Olá, eu sou o Rodrigo Trescato!</h1>
      <p>
-      Sou um apaixonado por tecnologia e soluções inovadoras. Como <br/>
-      <strong>Scrum Agile Master</strong>, eu tenho o compromisso de resolver problemas<br/>
-      complexos e trazer resultados rapidos e coninuos para os negócios.<br/>
-      Condizuir o planejamento estratégico determinado atuando diretamente na <br/>
-      compreensao de monitoramento de Roadmaps, levantamento de prioridades de <br/>
+      Sou um apaixonado por tecnologia e soluções inovadoras. Como <strong>Scrum Agile Master</strong>, <br/>
+      eu tenho o compromisso de resolver problemas complexos e trazer resultados rapidos e <br/>
+      continuos para os negócios. Condizuir o planejamento estratégico determinado atuando <br/>
+      diretamente na compreensao de monitoramento de Roadmaps, levantamento de prioridades de <br/>
       backlog e Product Discovery. Estou sempre em busca de novos desafios para superar.<br/>
       </p>
 
